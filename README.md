@@ -6,5 +6,4 @@
 
   ` Caso queira entrar em contato:`
   Email instituicional:
-
   ![](00001106106805sp@al.educacao.sp.gov.br)
