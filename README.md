@@ -7,6 +7,6 @@
 
 ### Meio de contato: ###
 
-  'Email institucional:'
+  `Email institucional:`
   
 00001106106805sp@al.educacao.sp.gov.br
