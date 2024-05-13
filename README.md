@@ -7,6 +7,6 @@
 
 ### Meio de contato: ###
   
-´email intituicional`
+`email intituicional`
 
 00001106106805sp@al.educacao.sp.gov.br
