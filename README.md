@@ -6,7 +6,5 @@
 - Aprecio diversas áreas artísticas, também tenho interesse em áreas tecnologicas.
 
 ### Meio de contato: ###
-
-  `Email institucional:`
   
-00001106106805sp@al.educacao.sp.gov.br
+![email intituicional](00001106106805sp@al.educacao.sp.gov.br)
