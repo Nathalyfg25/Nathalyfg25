@@ -7,6 +7,6 @@
 
 ### Meio de contato: ###
   
-`email intituicional`
+`email`
 
-00001106106805sp@al.educacao.sp.gov.br
+nahferreira403@gmail.com
